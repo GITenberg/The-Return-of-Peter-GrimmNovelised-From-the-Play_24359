@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6401
     wikipedia: http://en.wikipedia.org/wiki/David_Belasco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24359#The-Return-of-Peter-GrimmNovelised-From-the-Play
 gutenberg_issued: '2008-01-18'
 gutenberg_type: Text
 identifiers:
