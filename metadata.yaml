@@ -1,0 +1,39 @@
+_repo: The-Return-of-Peter-GrimmNovelised-From-the-Play_24359
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rae, John
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '26297'
+    url: http://www.gutenberg.org/2009/agents/26297
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belasco, David
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '6401'
+    url: http://www.gutenberg.org/2009/agents/6401
+    wikipedia: http://en.wikipedia.org/wiki/David_Belasco
+description: ''
+gutenberg_issued: '2008-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism -- Fiction'
+- !lcsh 'Dutch Americans -- New York (State) -- Fiction'
+- !lcsh 'Ghosts -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PS'
+title: 'The Return of Peter Grimm
+
+  Novelised From the Play'
+url: http://www.gutenberg.org/ebooks/24359
